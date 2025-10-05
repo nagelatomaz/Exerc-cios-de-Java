@@ -1,0 +1,10 @@
+class VariaveisPontoFlutuante {
+    public static void main (String[] args){
+        double ValorDaPassagem = 2.90;
+        float ValorDaGasolina = 3.95f;
+
+    System.out.println ("Valor da passagem: " + ValorDaPassagem );
+    System.out.println ("Valor da gasolina: " + ValorDaGasolina );
+
+    }
+}
